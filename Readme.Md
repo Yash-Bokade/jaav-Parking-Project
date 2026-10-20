@@ -2,12 +2,12 @@ Hello
 so this is my Java Mini Project ,
 
 # Smart City Parking application
-| PRN        | NAME |
-|------------|------|
-| 1012612004 | - -  |
-| 1012612010 | - -  |
-| 1012612012 | - -  |
-| 1012612016 | - -  |
+| PRN        | NAME                 |
+|------------|----------------------|
+| 1012612004 | Shardul Patil        |
+| 1012612010 | Heramb Dharmadhakari |
+| 1012612012 | Yashraj Shinde       |
+| 1012612016 | Yash Boakde          |
 ---
 
 > This Application includes 
@@ -70,6 +70,7 @@ INSERT INTO Zones (zone_name, spot_count) VALUES ('Zone A', 10), ('Zone B', 8);
 ## Structure
     
 Project
+```
  |-src/
  |  |-Main.java
  |  |-GUI/
@@ -82,6 +83,7 @@ Project
  |  |  |-DbConnector.java
  |  |  |-DbQueries.java
  |  |  |-DataRepository.java
+ ```
  ---
  `Implemented with Swing MDI, In-memory Data, Sockets, Threads, Reservation/Exit Forms, and Printable Receipts`
  ---  
